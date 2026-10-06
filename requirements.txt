@@ -1,0 +1,6 @@
+langgraph
+langgraph-checkpoint-sqlite
+langchain-core
+langchain-groq
+trustcall
+python-dotenv
